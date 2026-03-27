@@ -1,0 +1,6 @@
+# Core
+torch>=2.0.0
+
+pytest>=7.0.0
+
+datasets>=2.14.0
