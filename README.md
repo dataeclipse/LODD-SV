@@ -1,6 +1,6 @@
 # LODD-SV
 
-**by [@dataeclipse](https://github.com/dataeclipse)** — Locally-Optimized Discrete diffusion with Symbolic verification.
+**by [@dataeclipse](https://github.com/dataeclipse)** â€” Locally-Optimized Discrete diffusion with Symbolic verification.
 
 This repository implements:
 - discrete diffusion for text (`x0 -> xt -> x0`),
@@ -168,7 +168,7 @@ python scripts/run_all.py
 
 ## Checkpoints
 
-`.pt` checkpoint files are not committed (large binaries; one file exceeded GitHub's 100 MB limit). Train with the commands above or use your own paths.
+`.pt` checkpoint files are not committed (large binaries; one file exceeded GitHub's 100 MB limit). Train with the commands above or use your own paths
 
 Checkpoint files store:
 - model weights,
